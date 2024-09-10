@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🦇 About Me:
 🔭 I’m currently working on: Enhancing machine learning models for real-time clinical decision support and developing AI-powered chatbots for healthcare and skincare advice.<br><br>👯 I’m looking to collaborate on: Projects involving advanced AI/ML models, data-driven healthcare solutions, or innovative IoT integrations.<br><br>🤝 I’m looking for help with: Scaling and optimizing machine learning algorithms for large datasets, particularly in the healthcare and IoT domains.<br><br>🌱 I’m currently learning: Cutting-edge generative AI techniques, advanced deep learning frameworks, and their applications in real-world scenarios.<br><br>💬 Ask me about: Machine learning, AI model development, data science techniques, or integrating IoT systems with AI.<br><br>⚡ Fun fact: I once tried to train a machine learning model to recognize my dog's different barkings—to know exactly when she’s demanding treats!
 
 
