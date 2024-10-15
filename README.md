@@ -1,7 +1,7 @@
 # 🌟 Hey, I'm Sri Ganesh Arjula! 
 🚀 **AI/ML Engineer** with a passion for revolutionizing healthcare through cutting-edge tech. Currently diving deep into **machine learning for real-time clinical decision support**, building **AI-powered skincare chatbots**, and developing a **carpooling application** using FastAPI with real-time features. When I'm not training models, you can find me fine-tuning advanced deep learning frameworks and experimenting with generative AI techniques!
 
-![Banner](https://media1.tenor.com/m/SWh2pvQFZcsAAAAC/tech-flow.gif)
+![Banner]()
 
 ### 🔬 What I'm Working On:
 - **🚑 AI in Healthcare**: Developing algorithms for real-time EMR integration and clinical decision support systems.
